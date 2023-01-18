@@ -30,7 +30,7 @@ is_head_moving_left_right = False
 pygame.init()
 
 # Load alarm sound
-alarm_sound = pygame.mixer.Sound("alarm.wav")
+alarm_sound = pygame.mixer.Sound("alarm.mp3")
 
 # Begin infinite loop
 while True:
